@@ -1,11 +1,9 @@
-package com.snmlm.dynamic_proxy;
+package com.snmlm.dynamicproxy;
 
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.net.InterfaceAddress;
-import java.util.Arrays;
 
 /**
  * @author: snmlm

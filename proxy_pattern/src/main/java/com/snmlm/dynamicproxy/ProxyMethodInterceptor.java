@@ -1,6 +1,5 @@
-package com.snmlm.dynamic_proxy;
+package com.snmlm.dynamicproxy;
 
-import org.springframework.cglib.proxy.Callback;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;

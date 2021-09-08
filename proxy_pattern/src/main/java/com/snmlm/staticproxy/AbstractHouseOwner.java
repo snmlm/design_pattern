@@ -1,4 +1,4 @@
-package com.snmlm.static_proxy;
+package com.snmlm.staticproxy;
 
 /**
  * @author: snmlm

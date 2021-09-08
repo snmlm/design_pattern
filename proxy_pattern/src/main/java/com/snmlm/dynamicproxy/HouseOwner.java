@@ -1,4 +1,4 @@
-package com.snmlm.dynamic_proxy;
+package com.snmlm.dynamicproxy;
 
 
 /**
