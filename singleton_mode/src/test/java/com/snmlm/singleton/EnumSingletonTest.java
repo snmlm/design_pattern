@@ -9,5 +9,6 @@ public class EnumSingletonTest {
         EnumSingleton instance1 = EnumSingleton.INSTANCE;
         EnumSingleton instance2 = EnumSingleton.INSTANCE;
         System.out.println(instance1 == instance2);
+        
     }
 }
